@@ -1,0 +1,11 @@
+/* Menyesuaikan tampilan scrollbar horizontal */
+.scrollYear::-webkit-scrollbar {
+  height: 5px;
+  width: 5px;
+}
+.scrollYear::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+.scrollYear::-webkit-scrollbar-thumb {
+  background: #bdbdbd;
+}

@@ -45,6 +45,5 @@ export const generateDate = (
   return arrayOfDate;
 };
 
-export const getMonths = moment.months();
 
 export const getDays = moment.weekdaysShort();
